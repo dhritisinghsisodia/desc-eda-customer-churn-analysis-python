@@ -212,4 +212,4 @@ df = pd.read_csv('/content/Customer Churn.csv')
 ## 📬 Connect
 
 **Dhriti Singh Sisodia**
-[GitHub](https://github.com/dhritisinghsisodia) | [LinkedIn](https://linkedin.com/in/dhritisinghsisodia)
+[GitHub](https://github.com/dhritisinghsisodia) | [LinkedIn](https://www.linkedin.com/in/dhriti-singh-sisodia-728a56237/)
